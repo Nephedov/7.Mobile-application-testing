@@ -13,6 +13,10 @@
 ### Задание 2
 * Поключен Github Actions и реализован <a href="https://github.com/Nephedov/7.Mobile-application-testing/blob/main/.github/workflows/android.yml">android.yml</a>.
 
+---
+---
+
+
 ## Описание Задания 1. «UI Automator»
 
 Ваша задача — добавить два теста:
